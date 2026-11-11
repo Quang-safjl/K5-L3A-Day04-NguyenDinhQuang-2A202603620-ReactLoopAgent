@@ -3,12 +3,6 @@
 Họ và tên:Nguyễn Đình Quang             
 MSSV:2A202603620
 
-# NOTES
-
-# NOTES
-
-Cấu hình cố định cho các lần chạy: provider `openrouter`, agent và judge đều là `openai/gpt-4o-mini`, `max_steps = 8`, dataset `core` (22 case).
-
 ## 1. Case được chọn
 
 - **ID case: H7** (scenario `cloudflare_timeout`). Hai lỗi phụ cùng đợt: **H1** và **H6** (không đọc incident gộp được dẫn tới).
